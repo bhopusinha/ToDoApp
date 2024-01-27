@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BToDo/static/css/main.a3a5ab41.css",
+    "main.js": "/BToDo/static/js/main.84f7a288.js",
+    "index.html": "/BToDo/index.html",
+    "main.a3a5ab41.css.map": "/BToDo/static/css/main.a3a5ab41.css.map",
+    "main.84f7a288.js.map": "/BToDo/static/js/main.84f7a288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a5ab41.css",
+    "static/js/main.84f7a288.js"
+  ]
+}
